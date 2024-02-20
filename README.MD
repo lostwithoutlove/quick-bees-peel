@@ -57,3 +57,4 @@ npm i -D typescript @graphql-codegen/cli
 npm i -D @graphql-codegen/cli @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/import-types-preset prettier vite-tsconfig-paths
 npm install cors
 npm install vite
+npm install @ant-design/plots@1.2.5
