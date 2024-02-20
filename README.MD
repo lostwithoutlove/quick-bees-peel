@@ -47,3 +47,13 @@ To learn more about **Refine**, please check out the [Documentation](https://ref
 ## License
 
 MIT
+
+npm create-refine-app@latest
+Dat Provider - Nestjs Query
+UI Framework Ant Design
+npm i
+npm run dev
+npm i -D typescript @graphql-codegen/cli
+npm i -D @graphql-codegen/cli @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/import-types-preset prettier vite-tsconfig-paths
+npm install cors
+npm install vite
